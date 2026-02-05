@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Markdown Template Guide**
 
 ---
@@ -123,3 +124,6 @@ Markdown is a simple, flexible, and powerful language for creating documents and
 - [Hyperlink Example](https://example.com)
 "My edite"
 "A new line from my feature branch."
+=======
+"# My Project"
+>>>>>>> e15eed0397fce00290e7cc9f841f07a237581f54
